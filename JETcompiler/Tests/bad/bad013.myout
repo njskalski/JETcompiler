@@ -1,0 +1,1 @@
+Error while processing expression: Cannot multiply two different types - "IntegerType" and "FloatType", because there is no dynamic casting , line 3.

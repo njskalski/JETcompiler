@@ -1,0 +1,4 @@
+llvm-as code.ll
+llvm-ld code.bc sysfunc.bc
+./a.out
+
